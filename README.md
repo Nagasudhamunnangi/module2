@@ -1,2 +1,2 @@
 # module2
-created module2 repository
+created sample repository
